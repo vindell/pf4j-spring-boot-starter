@@ -1,0 +1,3 @@
+ro.fortsoft.pf4j.spring.boot.Pf4jAutoConfiguration
+ro.fortsoft.pf4j.spring.boot.Pf4jUpdateAutoConfiguration
+ro.fortsoft.pf4j.spring.boot.Pf4jMavenAutoConfiguration
